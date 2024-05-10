@@ -15,3 +15,6 @@ docker-compose run data_platform jobs/write_to_pubsub_demo/main.py
 
 ## 認証設定
 GCP管理画面でサービスアカウントのjsonをダウンロードしてルート直下にcredentials.jsonとして配置してください。
+
+その他詳細はブログに記載しています。
+https://ikeyu0806.hatenablog.com/entry/2024/04/28/052238
